@@ -1,3 +1,11 @@
-# Welcome to my blog
+# Srideep Maulik
+## Software Engineer/Data Analyst
 
-I'm glad you are here. I plan to talk about ...
+## Details
+### Address :house:
+*112 White Horse,Egg Harbor City,NJ-08215*
+### Phone :phone:
+*978-967-5855*
+### Email :mailbox:
+*srideepmaulik@gmail.com*
+
